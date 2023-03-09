@@ -1,0 +1,3 @@
+#!bin/bash
+chmod rwx--x--x *dir 
+chmod 711 *dir
